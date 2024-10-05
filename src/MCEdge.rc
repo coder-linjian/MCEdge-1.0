@@ -13,7 +13,7 @@
 #undef APSTUDIO_READONLY_SYMBOLS
 
 /////////////////////////////////////////////////////////////////////////////
-// Chinese (中国) resources
+// Chinese (脰脨鹿煤) resources
 
 #if !defined(AFX_RESOURCE_DLL) || defined(AFX_TARG_CHS)
 #ifdef _WIN32
@@ -55,7 +55,7 @@ END
 // Icon with lowest ID value placed first to ensure application icon
 // remains consistent on all systems.
 IDI_ICONEDGE            ICON    DISCARDABLE     "Res\\MCEdge.ico"
-#endif    // Chinese (中国) resources
+#endif    // Chinese (脰脨鹿煤) resources
 /////////////////////////////////////////////////////////////////////////////
 
 
