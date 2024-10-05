@@ -1,10 +1,5 @@
 #include<windows.h>
-#include<iostream>
-#include<stdio.h>
-#include<stdlib.h>
-#include<time.h>
 #include<tchar.h>
-#include<fstream>
 
 #pragma comment(lib,"winmm.lib")
 #pragma comment(linker,"/subsystem:\"windows\" /entry:\"mainCRTStartup\"")
